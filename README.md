@@ -1,5 +1,11 @@
-git clone https://github.com/rayan-luarmornetfiles/Tool-Red.Magics.git 
+TUTO EXECUTE !
+TUTO EXECUTE !
 
-cd Tool-Red.Magics
 
-python RedMagic.py
+#git clone https://github.com/rayan-luarmornetfiles/Tool-Red.Magics.git
+
+
+#cd Tool-Red.Magics
+
+
+#python RedMagic.py
