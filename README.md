@@ -2,10 +2,8 @@ TUTO EXECUTE !
 TUTO EXECUTE !
 
 ```text
-#git clone https://github.com/rayan-luarmornetfiles/Tool-Red.Magics.git
+git clone https://github.com/rayan-luarmornetfiles/Tool-Red.Magics.git
 
+cd Tool-Red.Magics
 
-#cd Tool-Red.Magics
-
-
-#python RedMagic.py
+python RedMagic.py
